@@ -1,0 +1,10 @@
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Form1.resources
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\avkor\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
